@@ -1,8 +1,7 @@
 # CPT-Data-Visualisation
 Geotechnical Cone Penetration Testing Data Visualisation
 
-Reference Book on CPT techniques and analysis: T. Lunne , J.J.M Powell, P.K. Robertson: Cone Penetration Testing in Geotechnical Practice
-Amazon Link: https://www.amazon.co.uk/Cone-Penetration-Testing-Geotechnical-Practice/dp/041923750X
+Reference Book on CPT techniques and analysis: T. Lunne , J.J.M Powell, P.K. Robertson: Cone Penetration Testing in Geotechnical Practice [Amazon Link](https://www.amazon.co.uk/Cone-Penetration-Testing-Geotechnical-Practice/dp/041923750X)
 
 Three Python scripts have been created to perform the calculations and data visualisation based on the techniques provided by Lunne et al 
 and according to Geotechnical industry practice (British Standard: BS EN ISO 22476-1:2012)
